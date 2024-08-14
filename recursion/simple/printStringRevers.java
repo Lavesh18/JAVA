@@ -1,4 +1,4 @@
-package recursion;
+package recursion.simple;
 
 public class printStringRevers {
     public static void printReverse(String ex , int idx)

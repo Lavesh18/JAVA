@@ -1,4 +1,4 @@
-package recursion;
+package recursion.medium;
 
 public class printAllSubsequences {
     public static void printSubs(String str,int idx,String newStr)

@@ -1,4 +1,4 @@
-package recursion;
+package recursion.simple;
 
 public class printXPowerN {
     public static int getPower(int n , int x)

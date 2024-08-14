@@ -1,4 +1,4 @@
-package recursion;
+package recursion.medium;
 
 public class removeDuplizates {
     public static boolean[] map = new boolean[26];

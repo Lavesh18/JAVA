@@ -1,4 +1,4 @@
-package recursion;
+package recursion.advanced;
 
 public class printKeypadCombo {
     public static String[] keypad = {".","abc","def","ghi","jkl","mno","pqrs","tu","vwx","yz"};

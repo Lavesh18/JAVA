@@ -1,4 +1,4 @@
-package recursion;
+package recursion.medium;
 
 public class moveAllXtoEnd {
     public static void moveAllEle(String str, int idx, int count, String newString, char ele) {

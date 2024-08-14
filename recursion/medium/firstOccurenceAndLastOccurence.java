@@ -1,4 +1,4 @@
-package recursion;
+package recursion.medium;
 
 public class firstOccurenceAndLastOccurence {
     public static int first = -1;
